@@ -1,0 +1,29 @@
+{
+  "name": "algorithms-testground",
+  "version": "1.0.0",
+  "description": "Server used for AAED algorithms implementation & testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-otani/AAED-TestGround.git"
+  },
+  "keywords": [
+    "algorithms",
+    "optimization",
+    "graphs",
+    "quicksort",
+    "bfs",
+    "dfs",
+    "dynamic",
+    "programming"
+  ],
+  "author": "Leandro Otani",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leandro-otani/AAED-TestGround/issues"
+  },
+  "homepage": "https://github.com/leandro-otani/AAED-TestGround#readme"
+}
