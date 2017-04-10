@@ -25,5 +25,13 @@
   "bugs": {
     "url": "https://github.com/leandro-otani/AAED-TestGround/issues"
   },
-  "homepage": "https://github.com/leandro-otani/AAED-TestGround#readme"
+  "homepage": "https://github.com/leandro-otani/AAED-TestGround#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "reload": "^1.1.1",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "reload": "^1.1.1"
+  }
 }
