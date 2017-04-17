@@ -21,4 +21,7 @@ function Queue(){
     this.head = this.head.next;
     return firstInQueue.value;
   }
+  this.isEmpty = function(){
+    return this.head == null;
+  }
 }
